@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bergschaf
-- 👀 I’m interested in Programming.
+- 👀 I’m interested in Programming and Mathematics.
 - 🌱 I’m currently learning Python, Rust, Lean, Riscv and Untiy (C#).
 
 <!---
